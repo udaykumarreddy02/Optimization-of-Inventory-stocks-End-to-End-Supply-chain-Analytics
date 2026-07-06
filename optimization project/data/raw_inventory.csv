@@ -1,0 +1,51 @@
+Product_ID,Product_Name,Category,Unit_Cost,Stock_Quantity,Reorder_Level,Warehouse_Region
+P001,Product_1,Home Appliances,172.21,373,77,South
+P002,Product_2,Electronics,302.28,254,56,North
+P003,Product_3,Home Appliances,310.02,40,95,North
+P004,Product_4,Electronics,490.22,277,51,North
+P005,Product_5,Audio,41.46,161,113,North
+P006,Product_6,Home Appliances,427.07,303,119,East
+P007,Product_7,Wearables,136.4,263,133,South
+P008,Product_8,Wearables,448.34,152,127,North
+P009,Product_9,Electronics,468.44,129,94,East
+P010,Product_10,Wearables,330.83,341,124,North
+P011,Product_11,Audio,82.29,137,145,South
+P012,Product_12,Audio,297.26,247,125,North
+P013,Product_13,Home Appliances,255.76,113,122,East
+P014,Product_14,Audio,148.3,265,121,South
+P015,Product_15,Electronics,38.69,385,77,West
+P016,Product_16,Home Appliances,46.75,157,139,North
+P017,Product_17,Electronics,257.14,312,123,South
+P018,Product_18,Wearables,85.44,49,79,East
+P019,Product_19,Audio,426.5,162,69,North
+P020,Product_20,Home Appliances,485.81,4,134,West
+P021,Product_21,Home Appliances,302.27,244,53,West
+P022,Product_22,Audio,26.24,246,63,West
+P023,Product_23,Home Appliances,315.95,45,138,North
+P024,Product_24,Audio,312.87,241,73,East
+P025,Product_25,Wearables,134.87,145,76,North
+P026,Product_26,Wearables,172.43,416,116,East
+P027,Product_27,Wearables,66.74,221,141,North
+P028,Product_28,Electronics,398.21,122,106,West
+P029,Product_29,Audio,338.82,209,111,North
+P030,Product_30,Audio,372.42,388,131,East
+P031,Product_31,Electronics,254.43,45,121,South
+P032,Product_32,Wearables,59.74,350,127,South
+P033,Product_33,Electronics,94.18,43,76,West
+P034,Product_34,Audio,163.73,294,116,South
+P035,Product_35,Home Appliances,241.33,112,147,East
+P036,Product_36,Audio,482.09,153,86,North
+P037,Product_37,Home Appliances,491.17,122,105,South
+P038,Product_38,Audio,359.85,46,68,South
+P039,Product_39,Wearables,355.16,294,143,West
+P040,Product_40,Wearables,272.52,328,51,South
+P041,Product_41,Wearables,147.12,400,142,North
+P042,Product_42,Audio,270.11,450,109,East
+P043,Product_43,Electronics,136.95,115,52,West
+P044,Product_44,Wearables,386.92,83,70,North
+P045,Product_45,Wearables,433.6,246,131,East
+P046,Product_46,Audio,358.75,209,89,East
+P047,Product_47,Electronics,229.84,484,119,East
+P048,Product_48,Home Appliances,451.19,391,88,East
+P049,Product_49,Electronics,102.56,415,82,East
+P050,Product_50,Electronics,218.77,142,82,South
